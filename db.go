@@ -1,7 +1,7 @@
 package main
 
-import L "github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/syndtr/goleveldb/leveldb"
-import opt "github.com/ipfs/go-ipfs/Godeps/_workspace/src/github.com/syndtr/goleveldb/leveldb/opt"
+import L "github.com/syndtr/goleveldb/leveldb"
+import opt "github.com/syndtr/goleveldb/leveldb/opt"
 
 import (
   "flag"
